@@ -33,12 +33,12 @@ models = [
 ]
 
 y_cols = [
-    'DE_heart',
-    'DE_kidney',
-    'DE_liver',
-    'DE_lung',
-    'DE_spleen',
-    'DE_tumor'
+    'DEHeart',
+    'DEKidney',
+    'DELiver',
+    'DELung',
+    'DESpleen',
+    'DETumor'
 ]
 
 def predict_df(df_X):
